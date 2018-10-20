@@ -1,4 +1,4 @@
-## The following websites were for clients
+## The following websites were for clients **UPDATE 2018 THE BELOW SITES ARE NO LONGER AVAILABLE OR HAVE BEEN MAINTAINED BY OTHERS BESIDES MYSELF**
 ### www.izzysindustrial.com
 * HTML5
 * CSS3
